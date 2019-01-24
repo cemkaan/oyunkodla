@@ -12,8 +12,6 @@ Neredeyse bütün oyunlar belli başlı ANA KATEGORİLERE dahildirler.
 
 Satranç yada yapboz gibi oyunlar. Yüzyıllardır insanların beğendiği bir gurup oyundur.
 
-![scratch ile satran&#xE7; bile yazabilirsiniz](.gitbook/assets/satranc.png)
-
 ### Yarış Spor
 
 ![Spor yada araba yar&#x131;&#x15F;lar&#x131;](.gitbook/assets/spor.png)
