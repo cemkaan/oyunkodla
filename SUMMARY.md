@@ -3,6 +3,7 @@
 * [Ana Sayfa](README.md)
 * [Bilgisayar Oyunları](bilgisayar-oyunlari.md)
 * [Başlangıç](baslangic/README.md)
+  * [Scratch Tanıtım](baslangic/scratch-tanitim.md)
   * [WeDo Tanıtım](baslangic/wedo-tanitim.md)
 
 ## Oyunlar
