@@ -4,6 +4,26 @@ description: İyi oyun nasıl olur?
 
 # Bilgisayar Oyunları
 
+## OYUN TÜRLERİ
+
+Neredeyse bütün oyunlar belli başlı ANA KATEGORİLERE dahildirler.
+
+### Masa oyunları
+
+Satranç yada yapboz gibi oyunlar. Yüzyıllardır insanların beğendiği bir gurup oyundur.
+
+![](.gitbook/assets/satranc.png)
+
+### Yarış Spor
+
+![](.gitbook/assets/spor.png)
+
+### Rol oynama
+
+![](.gitbook/assets/rol.png)
+
+
+
 ## İyi Oyun Nasıl Olur?
 
 **Bazı oyunları** oyuncular tekrar ve tekrar oynamak ister. İşte böyle oyunlar geliştirmek için öncelikle oyunlar hangi elemanlardan oluşuyor onu düşünüp, bunların nasıl bir araya geleceğini öğrenmeliyiz.
@@ -11,6 +31,32 @@ description: İyi oyun nasıl olur?
 ### Atmosfer
 
 ![oyundaki t&#xFC;m renkler oyuna uygun olmal&#x131;](.gitbook/assets/project-octopath-9.jpg)
+
+#### Hikaye
+
+Oyun sahnesinin hazırlanabilmesi ve oyuncuların yapacaklarına bir anlam verebilmeleri için oyunların hikayeleri olmalıdır.
+
+![Arkaplanda bir hikayesi olmal&#x131;](.gitbook/assets/karp.png)
+
+#### Hız
+
+Oyun hızı oyuncunun heyecanını etkiler
+
+![gelecek bulan&#x131;kken durup d&#xFC;&#x15F;&#xFC;necek zaman olmaz](.gitbook/assets/afa.png)
+
+#### Renk Paleti
+
+![](.gitbook/assets/parlak.png)
+
+![](.gitbook/assets/renk.png)
+
+#### Mekan
+
+Atmosfer oluşturmanın en kolay yollarından birisi elbette hikayenin geçtiği yeri seçmektir.
+
+![](.gitbook/assets/kale.png)
+
+![Dekor se&#xE7;me ekran&#x131;](.gitbook/assets/dekor.png)
 
 ### Tasarım
 
@@ -46,10 +92,14 @@ Mekanik oyundaki **eylem**lerdir. Yani
 
 {% tab title="Kurallar" %}
 Ne yapıp yapamayacağını söyleyen kurallar. Örneğin karakterin nasıl ve neleri yapabiliyor, duvarlardan geçebiliyor musun yada uçabiliyor musun?
+
+![](.gitbook/assets/kural.png)
 {% endtab %}
 
 {% tab title="Hedefler" %}
 Her oyunda mutlaka bir meydan okuma olmalı, başarılması gereken hedefler oyunları oynama isteği oluşturur. 
+
+![](.gitbook/assets/hedef.png)
 {% endtab %}
 
 {% tab title="Kontroller" %}
