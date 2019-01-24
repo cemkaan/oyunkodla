@@ -8,7 +8,7 @@
 
 ## Oyunlar
 
-* [Roket Avcısı](oyunlar-1/roket-avcisi.md)
+* [Çöp Avcısı](oyunlar-1/roket-avcisi.md)
 * [Lahmacun Avı](oyunlar-1/lahmacun-avi.md)
 * [WeDo ile av](oyunlar-1/wedo-ile-av.md)
 * [Yeşileri yakala](oyunlar-1/yesileri-yakala.md)

@@ -1,23 +1,24 @@
-# Roket Avcısı
+# Çöp Avcısı
 
-## Getting Super Powers
+## Çöp Avcısı Nasıl Yapılır?
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
+İlk oyunumuz: Yüksek tempolu, Uzay hazine toplama oyunu.  Sadece basit adımları takip edin ve arkadaşınıza meydan okuyun.
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+OYUNUN AMACI
+
+Dünya’nın çevresi son 70 yıldır  binlerce yapay uydu ve bunların ortalıkta dolaşan başıboş parçalarıyla kaplanmış durumda.
+
+Uzay çöplerini temizyecek bir kahramanımız var ancak etraftaki meteorlarını oluşturduğu tehlike gittikçe artıyor.
 {% endhint %}
 
-Once you're strong enough, save the world:
+### Karakterler
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+![Ana kahraman roket](../.gitbook/assets/roket.png)
+
+![meteorlardan ka&#xE7;](../.gitbook/assets/meteor.png)
+
+![&#xE7;&#xF6;p topla](../.gitbook/assets/cop.png)
 
 
 
