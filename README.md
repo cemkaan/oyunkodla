@@ -4,6 +4,8 @@ description: Giriş Sayfası
 
 # Ana Sayfa
 
+## Neden insanlar oyun oynar?
+
 ## Önsöz
 
 Günümüz teknolojisine öncülük eden bir çok girişimci kodlamaya oyun kodlayarak başlamıştır. Biz çocuklar da bu işe en iyi bildiğimiz şeyle oyunla başlayacağız.
