@@ -20,5 +20,5 @@ Uzay çöplerini temizyecek bir kahramanımız var ancak etraftaki meteorların�
 
 ![&#xE7;&#xF6;p topla](../.gitbook/assets/cop.png)
 
-
+{% file src="../.gitbook/assets/coep-avcisi.pptx" caption="Çöp Avcısı Sunum dosyası" %}
 
