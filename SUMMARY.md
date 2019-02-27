@@ -9,7 +9,7 @@
 ## Oyunlar
 
 * [Çöp Avcısı](oyunlar-1/roket-avcisi.md)
-* [Lahmacun Avı](oyunlar-1/lahmacun-avi.md)
+* [Peynir Kovalamaca](oyunlar-1/lahmacun-avi.md)
 * [WeDo ile av](oyunlar-1/wedo-ile-av.md)
 * [Yeşileri yakala](oyunlar-1/yesileri-yakala.md)
 * [Zıplayan keçi](oyunlar-1/ziplayan-keci.md)
